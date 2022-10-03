@@ -1,0 +1,41 @@
+const verbs = [
+    'buy',
+    'think',
+    'run',
+    'clean',
+    'jump',
+    'cut',
+    'swim',
+    'drive',
+    'open',
+    'hit',
+    'eat',
+    'forget',
+    'sing',
+    'travel',
+    'walk',
+    'hear',
+    'drink',
+    'close'
+];
+
+const verbos = [
+    'comprar',
+    'pensar',
+    'correr',
+    'limpiar',
+    'saltar',
+    'cortar',
+    'nadar',
+    'conducir',
+    'abrir',
+    'pegar',
+    'comer',
+    'olvidar',
+    'cantar',
+    'viajar',
+    'caminar',
+    'oir',
+    'beber,',
+    'cerrar'
+];
